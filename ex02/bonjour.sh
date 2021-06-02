@@ -1,5 +1,5 @@
-echo "bonjour qu'elle votre prénom"
-read name
-echo "bonjour $name"
+echo "bonjour quel est vôtre prénom?"
+read  name
+echo "bonjour, $name ! "
 
 
