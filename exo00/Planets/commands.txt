@@ -1,0 +1,56 @@
+
+ 1270  cd Planets
+ 1271  mkdir Real
+ 1272  mkdir StarWars
+ 1273  mkdir StarTrek
+ 1274  cd Real
+ 1275  mkdir Telluriques
+ 1276  mkdir Gazeuses
+ 1277  ls
+ 1278  cd ..
+ 1279  mkdir commands.txt
+ 1280  ls
+ 1281  man cat
+ 1282  cat > commands.txt
+ 1283  cd..
+ 1284  cd ..
+ 1285  cd Planets
+ 1286  mv Jupiter Real
+ 1287  mv Jupiter.jpg Real
+ 1288  history > commands.txt
+ 1289  mv Lune.jpg Real
+ 1290  mv Mercure.jpg Real
+ 1291  mv Neptune.jpg Real
+ 1292  mv Pluton.jpg Real
+ 1293  mv saturn.jpg Real
+ 1294  mv saturn.png Real
+ 1295  mv Terre.jpg Real
+ 1296  mv Uranus.jpg Real
+ 1297  mv Venus.jpg Real
+ 1298  mv mars.jpeg Real
+ 1299  mv Naboo.png StarWars
+ 1300  mv Tatooine.jpg StarWars
+ 1301  mv Mustafar.png StarWars
+ 1302  mv Vulcan.jpg StarTrek
+ 1303  mv Coruscant.jpg StarWars
+ 1304  mv Taris.png StarWars
+ 1305  mv Risa.jpg StarTrek
+ 1306  mv JanusVI.jpg StarTrek
+ 1307  mv Andoria.jpg Startrek
+ 1308  ls
+ 1309  cd Real
+ 1310  ls
+ 1311  mv Mercure.jpg Telluriques
+ 1312  mv Venus.jpg Telluriques
+ 1313  mv Terre.jpg Telluriques
+ 1314  mv mars.jpeg Telluriques
+ 1315  ls
+ 1316  mv Lune.jpg Telluriques
+ 1317  mv Jupiter Gazeuses
+ 1318  mv Jupiter.jpg Gazeuses
+ 1319  mv Neptune.jpg Gazeuses/
+ 1320  mv saturn.png Gazeuses/
+ 1321  mv Uranus.jpg Gazeuses/
+ 1322  ls
+ 1323  cd ..
+ 1324  history > commands.txt
